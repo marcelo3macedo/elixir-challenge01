@@ -1,4 +1,4 @@
-# SumList
+# LengthList
 
-**TODO: Simple sum list function**
+**TODO: Simple usage of recursive function on elixir**
 
